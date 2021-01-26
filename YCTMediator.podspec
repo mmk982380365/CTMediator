@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "CTMediator"
+  s.name         = "YCTMediator"
   s.version      = "44"
   s.summary      = "CTMediator."
 
@@ -77,7 +77,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/casatwy/CTMediator.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/mmk982380365/CTMediator.git", :tag => s.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
